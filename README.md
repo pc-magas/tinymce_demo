@@ -1,4 +1,4 @@
-# Basic Test project using react-quill
+# Basic Test project using tinymce editor
 
 ## Install
 
